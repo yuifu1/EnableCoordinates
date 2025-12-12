@@ -5,5 +5,5 @@ api:
 - 5.0.0
 load: POSTWORLD
 author: yuiful
-description: "座標表示をonにします"
+description: "バニラの座標表示を有効にします"
   
